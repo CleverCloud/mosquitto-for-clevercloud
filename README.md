@@ -9,7 +9,6 @@ Add following environment variables to your "static" app :
 ```bash
 CC_PRE_BUILD_HOOK="clevercloud/prebuild.sh"
 CC_PRE_RUN_HOOK="clevercloud/prerun.sh"
-CC_TROUBLESHOOT="true"
 CC_WORKER_COMMAND="clevercloud/mosquitto.sh"
 CJSON_VERSION="1.7.18"
 MOSQUITTO_VERSION="2.0.18"

@@ -1,0 +1,5 @@
+password_file passwdfile
+listener 4040 0.0.0.0
+persistence true
+persistence_location storage
+autosave_interval 60

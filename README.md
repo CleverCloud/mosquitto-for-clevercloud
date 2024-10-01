@@ -17,3 +17,7 @@ MQTT_PASSWORD="test"
 MQTT_USER="test"
 CC_FS_BUCKET="/storage:bucket-<bucket_uuid>-fsbucket.services.clever-cloud.com"
 ```
+
+### TCP redirection
+
+Add a TCP redirection for your domain space (cleverapps or default).
